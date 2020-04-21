@@ -1,0 +1,4 @@
+var weather = "cloudy";
+if(weather == "cloudy"){
+alert("Please, take an umbrella with yourself to be safe.");
+} else {("You do not need an umbrella today, go ahead");}
