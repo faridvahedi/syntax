@@ -1,0 +1,3 @@
+var name = "Farid";
+for(var i=0; i <10;i++){
+alert(name);}
